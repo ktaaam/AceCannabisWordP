@@ -1,0 +1,2135 @@
+01-21-2018 @ 05:32:45 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetPalDetails
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:32:46 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [PAL] => GAFS5TBE7P826
+    [LOCALE] => en_US
+    [TIMESTAMP] => 2018-01-21T05:32:46Z
+    [CORRELATIONID] => 2e11c94e35605
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 39206242
+)
+
+01-21-2018 @ 05:32:56 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:32:58 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-6H919065H7800581P
+    [TIMESTAMP] => 2018-01-21T05:32:58Z
+    [CORRELATIONID] => a5aa8693226b5
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 05:37:25 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:37:28 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-8HC12630KS6960142
+    [TIMESTAMP] => 2018-01-21T05:37:28Z
+    [CORRELATIONID] => 12043d06db922
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 05:37:50 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-8HC12630KS6960142
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:37:50 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-8HC12630KS6960142
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T05:37:50Z
+    [CORRELATIONID] => 6e722c3f9521d
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => Ontario
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 20.00
+    [ITEMAMT] => 20.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Acid Dough
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 20.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 20.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => Ontario
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 20.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+01-21-2018 @ 05:37:53 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-8HC12630KS6960142
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:37:54 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-8HC12630KS6960142
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T05:37:54Z
+    [CORRELATIONID] => aa795fbd5375e
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => Ontario
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 20.00
+    [ITEMAMT] => 20.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Acid Dough
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 20.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 20.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => Ontario
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 20.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+01-21-2018 @ 05:37:54 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [TOKEN] => EC-8HC12630KS6960142
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INVNUM] => WC-383
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":383,"order_number":"383","order_key":"wc_order_5a6427326b23d"}
+    [NOSHIPPING] => 0
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => DoExpressCheckoutPayment
+    [VERSION] => 120.0
+    [BUTTONSOURCE] => WooThemes_EC
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:38:04 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-8HC12630KS6960142
+    [SUCCESSPAGEREDIRECTREQUESTED] => false
+    [TIMESTAMP] => 2018-01-21T05:38:03Z
+    [CORRELATIONID] => 6319448b92507
+    [ACK] => Failure
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [L_ERRORCODE0] => 10486
+    [L_SHORTMESSAGE0] => This transaction couldn't be completed.
+    [L_LONGMESSAGE0] => This transaction couldn't be completed. Please redirect your customer to PayPal.
+    [L_SEVERITYCODE0] => Error
+)
+
+01-21-2018 @ 05:38:32 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-8HC12630KS6960142
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:38:33 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-8HC12630KS6960142
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T05:38:33Z
+    [CORRELATIONID] => 1c083fa644880
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => ON
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 20.00
+    [ITEMAMT] => 20.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [CUSTOM] => {"order_id":383,"order_number":"383","order_key":"wc_order_5a6427326b23d"}
+    [INVNUM] => WC-383
+    [NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [L_NAME0] => Acid Dough
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 20.00
+    [L_ITEMWEIGHTVALUE0] =>    0.00000
+    [L_ITEMLENGTHVALUE0] =>    0.00000
+    [L_ITEMWIDTHVALUE0] =>    0.00000
+    [L_ITEMHEIGHTVALUE0] =>    0.00000
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 20.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":383,"order_number":"383","order_key":"wc_order_5a6427326b23d"}
+    [PAYMENTREQUEST_0_INVNUM] => WC-383
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [PAYMENTREQUEST_0_ADDRESSNORMALIZATIONSTATUS] => None
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 20.00
+    [L_PAYMENTREQUEST_0_ITEMWEIGHTVALUE0] =>    0.00000
+    [L_PAYMENTREQUEST_0_ITEMLENGTHVALUE0] =>    0.00000
+    [L_PAYMENTREQUEST_0_ITEMWIDTHVALUE0] =>    0.00000
+    [L_PAYMENTREQUEST_0_ITEMHEIGHTVALUE0] =>    0.00000
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+01-21-2018 @ 05:38:33 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [TOKEN] => EC-8HC12630KS6960142
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INVNUM] => WC-383
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":383,"order_number":"383","order_key":"wc_order_5a6427326b23d"}
+    [NOSHIPPING] => 0
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => DoExpressCheckoutPayment
+    [VERSION] => 120.0
+    [BUTTONSOURCE] => WooThemes_EC
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:38:38 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-8HC12630KS6960142
+    [SUCCESSPAGEREDIRECTREQUESTED] => false
+    [TIMESTAMP] => 2018-01-21T05:38:38Z
+    [CORRELATIONID] => 915cdb7d100e0
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [INSURANCEOPTIONSELECTED] => false
+    [SHIPPINGOPTIONISDEFAULT] => false
+    [PAYMENTINFO_0_TRANSACTIONID] => 4HC69822V7483312M
+    [PAYMENTINFO_0_TRANSACTIONTYPE] => cart
+    [PAYMENTINFO_0_PAYMENTTYPE] => instant
+    [PAYMENTINFO_0_ORDERTIME] => 2018-01-21T05:38:37Z
+    [PAYMENTINFO_0_AMT] => 20.00
+    [PAYMENTINFO_0_FEEAMT] => 0.88
+    [PAYMENTINFO_0_TAXAMT] => 0.00
+    [PAYMENTINFO_0_CURRENCYCODE] => CAD
+    [PAYMENTINFO_0_PAYMENTSTATUS] => Completed
+    [PAYMENTINFO_0_PENDINGREASON] => None
+    [PAYMENTINFO_0_REASONCODE] => None
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITY] => Eligible
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITYTYPE] => ItemNotReceivedEligible,UnauthorizedPaymentEligible
+    [PAYMENTINFO_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTINFO_0_SECUREMERCHANTACCOUNTID] => GAFS5TBE7P826
+    [PAYMENTINFO_0_ERRORCODE] => 0
+    [PAYMENTINFO_0_ACK] => Success
+)
+
+01-21-2018 @ 05:38:51 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:38:52 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-4UM90366ND1247003
+    [TIMESTAMP] => 2018-01-21T05:38:52Z
+    [CORRELATIONID] => 3f57422e7f9d
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 05:39:07 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:39:08 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-24M87405WL906535M
+    [TIMESTAMP] => 2018-01-21T05:39:09Z
+    [CORRELATIONID] => 8829612b33ff
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 05:39:23 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-24M87405WL906535M
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:39:33 - WC_Gateway_PPEC_Client::_request: returns error: Array
+(
+    [ACK] => Failure
+    [L_ERRORCODE0] => 3
+    [L_SHORTMESSAGE0] => Error in WC_Gateway_PPEC_Client::_request
+    [L_LONGMESSAGE0] => An error occurred while trying to connect to PayPal: cURL error 56: OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 0
+    [L_SEVERITYCODE0] => Error
+)
+
+01-21-2018 @ 05:39:33 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-24M87405WL906535M
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:39:34 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-24M87405WL906535M
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T05:39:34Z
+    [CORRELATIONID] => 45331fc71cc4f
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => Ontario
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 20.00
+    [ITEMAMT] => 20.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Acid Dough
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 20.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 20.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => Ontario
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 20.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+01-21-2018 @ 05:40:14 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:40:15 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-4T03952849800650U
+    [TIMESTAMP] => 2018-01-21T05:40:15Z
+    [CORRELATIONID] => 9dd5fda84408a
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 05:40:28 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:40:47 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-8U364227P7320025H
+    [TIMESTAMP] => 2018-01-21T05:40:47Z
+    [CORRELATIONID] => 77e2e3b1ed8b
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 05:43:30 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetPalDetails
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:43:30 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [PAL] => GAFS5TBE7P826
+    [LOCALE] => en_US
+    [TIMESTAMP] => 2018-01-21T05:43:30Z
+    [CORRELATIONID] => 644ba4a96fa2a
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 39206242
+)
+
+01-21-2018 @ 05:43:41 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:43:42 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-75F97492XF955123X
+    [TIMESTAMP] => 2018-01-21T05:43:42Z
+    [CORRELATIONID] => 793a91c91d592
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 05:44:04 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 60
+    [PAYMENTREQUEST_0_ITEMAMT] => 60
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 3
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:44:05 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 60
+    [PAYMENTREQUEST_0_ITEMAMT] => 60
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 3
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:44:09 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-72481247N9508014G
+    [TIMESTAMP] => 2018-01-21T05:44:09Z
+    [CORRELATIONID] => 8d60c3238ba1c
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 05:44:10 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-5SK08653UF3881207
+    [TIMESTAMP] => 2018-01-21T05:44:10Z
+    [CORRELATIONID] => 7656219ce09b1
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 05:45:29 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:45:30 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-2T5687025V0236222
+    [TIMESTAMP] => 2018-01-21T05:45:30Z
+    [CORRELATIONID] => c83e5ede8705e
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 05:45:41 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-2T5687025V0236222
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:45:41 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-2T5687025V0236222
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T05:45:42Z
+    [CORRELATIONID] => f2f62c02d0f35
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => Ontario
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 20.00
+    [ITEMAMT] => 20.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Acid Dough
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 20.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 20.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => Ontario
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 20.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+01-21-2018 @ 05:45:44 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-2T5687025V0236222
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:45:44 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-2T5687025V0236222
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T05:45:44Z
+    [CORRELATIONID] => 7f8b7419b9a02
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => Ontario
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 20.00
+    [ITEMAMT] => 20.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Acid Dough
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 20.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 20.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => Ontario
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 20.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+01-21-2018 @ 05:45:45 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [TOKEN] => EC-2T5687025V0236222
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INVNUM] => WC-384
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":384,"order_number":"384","order_key":"wc_order_5a642908dc535"}
+    [NOSHIPPING] => 0
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => DoExpressCheckoutPayment
+    [VERSION] => 120.0
+    [BUTTONSOURCE] => WooThemes_EC
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:45:49 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-2T5687025V0236222
+    [SUCCESSPAGEREDIRECTREQUESTED] => false
+    [TIMESTAMP] => 2018-01-21T05:45:49Z
+    [CORRELATIONID] => f24ae6ca7bc9e
+    [ACK] => Failure
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [L_ERRORCODE0] => 10001
+    [L_SHORTMESSAGE0] => Internal Error
+    [L_LONGMESSAGE0] => Internal Error
+    [L_SEVERITYCODE0] => Error
+)
+
+01-21-2018 @ 05:54:17 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetPalDetails
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:54:17 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [PAL] => GAFS5TBE7P826
+    [LOCALE] => en_US
+    [TIMESTAMP] => 2018-01-21T05:54:17Z
+    [CORRELATIONID] => a9f0c6e1c47bd
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 39206242
+)
+
+01-21-2018 @ 05:55:12 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetPalDetails
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:55:13 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [PAL] => GAFS5TBE7P826
+    [LOCALE] => en_US
+    [TIMESTAMP] => 2018-01-21T05:55:13Z
+    [CORRELATIONID] => 985f518580cc
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 39206242
+)
+
+01-21-2018 @ 05:56:13 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_ALLOWEDPAYMENTMETHOD] => InstantPaymentOnly
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:56:14 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-5LN3970063794934X
+    [TIMESTAMP] => 2018-01-21T05:56:14Z
+    [CORRELATIONID] => 11ce1a1f38b76
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 05:56:30 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-5LN3970063794934X
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:56:31 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-5LN3970063794934X
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T05:56:32Z
+    [CORRELATIONID] => 4332fc3ec8a77
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => Ontario
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 20.00
+    [ITEMAMT] => 20.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Acid Dough
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 20.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 20.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => Ontario
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 20.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+01-21-2018 @ 05:56:40 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-5LN3970063794934X
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:56:44 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-5LN3970063794934X
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T05:56:44Z
+    [CORRELATIONID] => ad27bcd95cba9
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => Ontario
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 20.00
+    [ITEMAMT] => 20.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Acid Dough
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 20.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 20.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => Ontario
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 20.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+01-21-2018 @ 05:56:44 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [TOKEN] => EC-5LN3970063794934X
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INVNUM] => AC-385
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":385,"order_number":"385","order_key":"wc_order_5a642b9c75e64"}
+    [NOSHIPPING] => 0
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => DoExpressCheckoutPayment
+    [VERSION] => 120.0
+    [BUTTONSOURCE] => WooThemes_EC
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:56:50 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-5LN3970063794934X
+    [SUCCESSPAGEREDIRECTREQUESTED] => false
+    [TIMESTAMP] => 2018-01-21T05:56:51Z
+    [CORRELATIONID] => 666a2a1e4408b
+    [ACK] => Failure
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [L_ERRORCODE0] => 10486
+    [L_SHORTMESSAGE0] => This transaction couldn't be completed.
+    [L_LONGMESSAGE0] => This transaction couldn't be completed. Please redirect your customer to PayPal.
+    [L_SEVERITYCODE0] => Error
+)
+
+01-21-2018 @ 05:57:13 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-5LN3970063794934X
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:57:14 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-5LN3970063794934X
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T05:57:14Z
+    [CORRELATIONID] => c0e8f4fac441d
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => ON
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 20.00
+    [ITEMAMT] => 20.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [CUSTOM] => {"order_id":385,"order_number":"385","order_key":"wc_order_5a642b9c75e64"}
+    [INVNUM] => AC-385
+    [NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [L_NAME0] => Acid Dough
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 20.00
+    [L_ITEMWEIGHTVALUE0] =>    0.00000
+    [L_ITEMLENGTHVALUE0] =>    0.00000
+    [L_ITEMWIDTHVALUE0] =>    0.00000
+    [L_ITEMHEIGHTVALUE0] =>    0.00000
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 20.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 20.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":385,"order_number":"385","order_key":"wc_order_5a642b9c75e64"}
+    [PAYMENTREQUEST_0_INVNUM] => AC-385
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [PAYMENTREQUEST_0_ADDRESSNORMALIZATIONSTATUS] => None
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 20.00
+    [L_PAYMENTREQUEST_0_ITEMWEIGHTVALUE0] =>    0.00000
+    [L_PAYMENTREQUEST_0_ITEMLENGTHVALUE0] =>    0.00000
+    [L_PAYMENTREQUEST_0_ITEMWIDTHVALUE0] =>    0.00000
+    [L_PAYMENTREQUEST_0_ITEMHEIGHTVALUE0] =>    0.00000
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+01-21-2018 @ 05:57:14 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [TOKEN] => EC-5LN3970063794934X
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYMENTREQUEST_0_AMT] => 20
+    [PAYMENTREQUEST_0_ITEMAMT] => 20
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INVNUM] => AC-385
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":385,"order_number":"385","order_key":"wc_order_5a642b9c75e64"}
+    [NOSHIPPING] => 0
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [L_PAYMENTREQUEST_0_NAME0] => Acid Dough
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 20
+    [METHOD] => DoExpressCheckoutPayment
+    [VERSION] => 120.0
+    [BUTTONSOURCE] => WooThemes_EC
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 05:57:19 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-5LN3970063794934X
+    [SUCCESSPAGEREDIRECTREQUESTED] => false
+    [TIMESTAMP] => 2018-01-21T05:57:19Z
+    [CORRELATIONID] => 1a849278bd6c6
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [INSURANCEOPTIONSELECTED] => false
+    [SHIPPINGOPTIONISDEFAULT] => false
+    [PAYMENTINFO_0_TRANSACTIONID] => 6FP37921EK923204B
+    [PAYMENTINFO_0_TRANSACTIONTYPE] => cart
+    [PAYMENTINFO_0_PAYMENTTYPE] => instant
+    [PAYMENTINFO_0_ORDERTIME] => 2018-01-21T05:57:18Z
+    [PAYMENTINFO_0_AMT] => 20.00
+    [PAYMENTINFO_0_FEEAMT] => 0.88
+    [PAYMENTINFO_0_TAXAMT] => 0.00
+    [PAYMENTINFO_0_CURRENCYCODE] => CAD
+    [PAYMENTINFO_0_PAYMENTSTATUS] => Completed
+    [PAYMENTINFO_0_PENDINGREASON] => None
+    [PAYMENTINFO_0_REASONCODE] => None
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITY] => Eligible
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITYTYPE] => ItemNotReceivedEligible,UnauthorizedPaymentEligible
+    [PAYMENTINFO_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTINFO_0_SECUREMERCHANTACCOUNTID] => GAFS5TBE7P826
+    [PAYMENTINFO_0_ERRORCODE] => 0
+    [PAYMENTINFO_0_ACK] => Success
+)
+
+01-21-2018 @ 06:00:06 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetPalDetails
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 06:00:14 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [PAL] => GAFS5TBE7P826
+    [LOCALE] => en_US
+    [TIMESTAMP] => 2018-01-21T06:00:14Z
+    [CORRELATIONID] => 7cf010d131777
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 39206242
+)
+
+01-21-2018 @ 06:01:34 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => Ace Cannabis
+    [RETURNURL] => http://localhost/wordpress/checkout/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/wordpress/cart/?woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_ALLOWEDPAYMENTMETHOD] => InstantPaymentOnly
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 8
+    [PAYMENTREQUEST_0_ITEMAMT] => 8
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => Amnesia
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 8
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 06:01:35 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-7HP22007N4868931H
+    [TIMESTAMP] => 2018-01-21T06:01:35Z
+    [CORRELATIONID] => bf31fc94b5fdf
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+)
+
+01-21-2018 @ 06:01:48 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-7HP22007N4868931H
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 06:01:55 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-7HP22007N4868931H
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T06:01:55Z
+    [CORRELATIONID] => 65f0f65b59247
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => Ontario
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 8.00
+    [ITEMAMT] => 8.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Amnesia
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 8.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 8.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 8.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => Ontario
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Amnesia
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 8.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+01-21-2018 @ 06:01:59 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-7HP22007N4868931H
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 06:02:00 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-7HP22007N4868931H
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T06:02:00Z
+    [CORRELATIONID] => 159960345793f
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => Ontario
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 8.00
+    [ITEMAMT] => 8.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Amnesia
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 8.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 8.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 8.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => Ontario
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Amnesia
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 8.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+01-21-2018 @ 06:02:00 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [TOKEN] => EC-7HP22007N4868931H
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYMENTREQUEST_0_AMT] => 8
+    [PAYMENTREQUEST_0_ITEMAMT] => 8
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INVNUM] => AC-386
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":386,"order_number":"386","order_key":"wc_order_5a642cd8814d6"}
+    [NOSHIPPING] => 0
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [L_PAYMENTREQUEST_0_NAME0] => Amnesia
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 8
+    [METHOD] => DoExpressCheckoutPayment
+    [VERSION] => 120.0
+    [BUTTONSOURCE] => WooThemes_EC
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 06:02:09 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-7HP22007N4868931H
+    [SUCCESSPAGEREDIRECTREQUESTED] => false
+    [TIMESTAMP] => 2018-01-21T06:02:09Z
+    [CORRELATIONID] => c954c80b84f29
+    [ACK] => Failure
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [L_ERRORCODE0] => 10001
+    [L_SHORTMESSAGE0] => Internal Error
+    [L_LONGMESSAGE0] => Internal Error
+    [L_SEVERITYCODE0] => Error
+)
+
+01-21-2018 @ 06:09:08 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetPalDetails
+    [VERSION] => 120.0
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 06:09:08 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [PAL] => GAFS5TBE7P826
+    [LOCALE] => en_US
+    [TIMESTAMP] => 2018-01-21T06:09:09Z
+    [CORRELATIONID] => dbaf8e13d0e8c
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 39206242
+)
+
+01-21-2018 @ 06:18:12 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-7HP22007N4868931H
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 06:18:13 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-7HP22007N4868931H
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T06:18:13Z
+    [CORRELATIONID] => f692c960c982
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => ON
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 8.00
+    [ITEMAMT] => 8.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [CUSTOM] => {"order_id":386,"order_number":"386","order_key":"wc_order_5a642cd8814d6"}
+    [INVNUM] => AC-386
+    [NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Amnesia
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 8.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 8.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 8.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":386,"order_number":"386","order_key":"wc_order_5a642cd8814d6"}
+    [PAYMENTREQUEST_0_INVNUM] => AC-386
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Amnesia
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 8.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 10417
+    [PAYMENTREQUESTINFO_0_SHORTMESSAGE] => Transaction cannot complete.
+    [PAYMENTREQUESTINFO_0_LONGMESSAGE] => Instruct the customer to retry the transaction using an alternative payment method from the customers PayPal wallet. The transaction did not complete with the customers selected payment method.
+    [PAYMENTREQUESTINFO_0_SEVERITYCODE] => Error
+)
+
+01-21-2018 @ 06:19:15 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-7HP22007N4868931H
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 06:19:17 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-7HP22007N4868931H
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T06:19:17Z
+    [CORRELATIONID] => b989e3445a0e
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => ON
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 8.00
+    [ITEMAMT] => 8.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [CUSTOM] => {"order_id":386,"order_number":"386","order_key":"wc_order_5a642cd8814d6"}
+    [INVNUM] => AC-386
+    [NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Amnesia
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 8.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 8.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 8.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":386,"order_number":"386","order_key":"wc_order_5a642cd8814d6"}
+    [PAYMENTREQUEST_0_INVNUM] => AC-386
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Amnesia
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 8.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 10417
+    [PAYMENTREQUESTINFO_0_SHORTMESSAGE] => Transaction cannot complete.
+    [PAYMENTREQUESTINFO_0_LONGMESSAGE] => Instruct the customer to retry the transaction using an alternative payment method from the customers PayPal wallet. The transaction did not complete with the customers selected payment method.
+    [PAYMENTREQUESTINFO_0_SEVERITYCODE] => Error
+)
+
+01-21-2018 @ 06:20:38 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-7HP22007N4868931H
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 06:20:39 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-7HP22007N4868931H
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T06:20:39Z
+    [CORRELATIONID] => 2e5249bf9e7d7
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => ON
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 8.00
+    [ITEMAMT] => 8.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [CUSTOM] => {"order_id":386,"order_number":"386","order_key":"wc_order_5a642cd8814d6"}
+    [INVNUM] => AC-386
+    [NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Amnesia
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 8.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 8.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 8.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":386,"order_number":"386","order_key":"wc_order_5a642cd8814d6"}
+    [PAYMENTREQUEST_0_INVNUM] => AC-386
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Amnesia
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 8.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 10417
+    [PAYMENTREQUESTINFO_0_SHORTMESSAGE] => Transaction cannot complete.
+    [PAYMENTREQUESTINFO_0_LONGMESSAGE] => Instruct the customer to retry the transaction using an alternative payment method from the customers PayPal wallet. The transaction did not complete with the customers selected payment method.
+    [PAYMENTREQUESTINFO_0_SEVERITYCODE] => Error
+)
+
+01-21-2018 @ 06:22:18 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetExpressCheckoutDetails
+    [VERSION] => 120.0
+    [TOKEN] => EC-7HP22007N4868931H
+    [USER] => tam.kevin-facilitator_api1.aiesec.net
+    [PWD] => RUR8Q7RS5KYHXS4Q
+    [SIGNATURE] => AW5YfJNq9VyIfs8uotPz5XhvhKbEAC9QR4UN3AlE6Y3Pa52kEbq5yKP1
+)
+
+01-21-2018 @ 06:22:18 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-7HP22007N4868931H
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-01-21T06:22:19Z
+    [CORRELATIONID] => 460b4385c83ad
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 42877378
+    [EMAIL] => tam.kevin-buyer@aiesec.net
+    [PAYERID] => PRQVQJCHNE7YL
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => test
+    [LASTNAME] => buyer
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => test buyer
+    [SHIPTOSTREET] => 1 Maire-Victorin
+    [SHIPTOCITY] => Toronto
+    [SHIPTOSTATE] => ON
+    [SHIPTOZIP] => M5A 1E1
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 8.00
+    [ITEMAMT] => 8.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [CUSTOM] => {"order_id":386,"order_number":"386","order_key":"wc_order_5a642cd8814d6"}
+    [INVNUM] => AC-386
+    [NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [L_NAME0] => Amnesia
+    [L_QTY0] => 1
+    [L_TAXAMT0] => 0.00
+    [L_AMT0] => 8.00
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 8.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 8.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_CUSTOM] => {"order_id":386,"order_number":"386","order_key":"wc_order_5a642cd8814d6"}
+    [PAYMENTREQUEST_0_INVNUM] => AC-386
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://localhost/wordpress/wc-api/WC_Gateway_PPEC/
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => tam.kevin-facilitator@aiesec.net
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => test buyer
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 1 Maire-Victorin
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Toronto
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => ON
+    [PAYMENTREQUEST_0_SHIPTOZIP] => M5A 1E1
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [L_PAYMENTREQUEST_0_NAME0] => Amnesia
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+    [L_PAYMENTREQUEST_0_AMT0] => 8.00
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 10417
+    [PAYMENTREQUESTINFO_0_SHORTMESSAGE] => Transaction cannot complete.
+    [PAYMENTREQUESTINFO_0_LONGMESSAGE] => Instruct the customer to retry the transaction using an alternative payment method from the customers PayPal wallet. The transaction did not complete with the customers selected payment method.
+    [PAYMENTREQUESTINFO_0_SEVERITYCODE] => Error
+)
+
